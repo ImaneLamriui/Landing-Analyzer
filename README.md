@@ -10,7 +10,7 @@ Herramienta educativa desarrollada en Python para analizar *landing pages* sospe
 ## 🚀 Uso
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tuusuario/Landing-Analyzer.git
+   git clone https://github.com/ImaneLamriui/Landing-Analyzer.git
    cd Landing-Analyzer
    ```
  
