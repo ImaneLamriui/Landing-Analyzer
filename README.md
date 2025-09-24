@@ -6,7 +6,7 @@ Herramienta educativa desarrollada en Python para analizar *landing pages* sospe
 
 <img src="images/2graph.png">
 
-<img src="images/landing_graph.png">ç
+<img src="images/landing_graph.png">
 
 - Redirecciones
 - Estado HTTP (200, 403, 404…)
@@ -34,6 +34,8 @@ Herramienta educativa desarrollada en Python para analizar *landing pages* sospe
  ```
 
 <img src="images/4requirements.png">
+
+<img src="images/requierments.png">
 
 4. Añade tus URLs a urls.txt.
 
