@@ -1,5 +1,16 @@
 # Landing Analyzer 🕵️‍♂️
 
+### Recomendación práctica:
+
+Haz primero un entorno virtual (python -m venv venv o virtualenv venv).
+
+Instala lo que uses realmente (pip install requests pandas matplotlib ...).
+
+Luego ejecuta 
+
+  ```
+pip freeze > requirements.txt.
+  ```
 Herramienta educativa desarrollada en Python para analizar *landing pages* sospechosas (como links acortados o de phishing) y detectar:
 
 <img src="images/1Project-Structure.png">
