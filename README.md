@@ -23,7 +23,7 @@ Herramienta educativa desarrollada en Python para analizar *landing pages* sospe
    python3 -m venv venv
    source venv/bin/activate
  ```
-<img src="images/3venv.png">
+<img src="images/3requirements.png">
 
 3. Instala dependencias:
    
@@ -31,7 +31,7 @@ Herramienta educativa desarrollada en Python para analizar *landing pages* sospe
   pip install -r requirements.txt
  ```
 
-<img src="images/4venv.png">
+<img src="images/4requirements.png">
 
 4. Añade tus URLs a urls.txt.
 
